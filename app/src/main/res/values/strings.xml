@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arch Threading</string>
+    <string name="msg_internet_not_connected_message">Internet is not connected</string>
+</resources>
